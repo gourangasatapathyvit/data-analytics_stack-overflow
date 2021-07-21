@@ -9,3 +9,12 @@ Exploratory Data Analysis and Visualization of stack overflow annual developer s
 
 ![alt text](https://github.com/gourangasatapathyvit/data-analytics_stack-overflow/blob/main/Artboard%202.jpg)
 
+
+![alt text](https://github.com/gourangasatapathyvit/data-analytics_stack-overflow/blob/main/Artboard%203.jpg)
+
+![alt text](https://github.com/gourangasatapathyvit/data-analytics_stack-overflow/blob/main/Artboard%204.jpg)
+
+![alt text](https://github.com/gourangasatapathyvit/data-analytics_stack-overflow/blob/main/Artboard%206.jpg)
+
+
+![alt text](https://github.com/gourangasatapathyvit/data-analytics_stack-overflow/blob/main/Artboard%208.jpg)
